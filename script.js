@@ -395,7 +395,7 @@
       geodesic: true,  //curves around on flat map  to simulate a globe map
       strokeOpacity: 1.0,
       strokeWeight: 3,
-      strokeWeight: 0, // change this value to show / hide the line
+      strokeWeight: 1, // change this value to show / hide the line
       icons: [{
         icon: lineSymbol,
         offset: '100%'
