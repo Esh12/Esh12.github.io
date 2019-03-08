@@ -1,5 +1,5 @@
 // This example adds an animated symbol to a polyline.
-function initMap() {
+  function initMap() {
     var map = new google.maps.Map(document.getElementById('map'), {
       center: {
         lat: 53,
@@ -376,7 +376,7 @@ function initMap() {
     var lineSymbol = {
       path: google.maps.SymbolPath.CIRCLE,
       scale: 5, // change the size
-      strokeColor: '#393'
+      strokeColor: '#003366'
     };
   var frmlat = [
       {
