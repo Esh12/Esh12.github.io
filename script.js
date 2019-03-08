@@ -416,4 +416,4 @@
     }, 60); // change this value to change the speed
     
   }
-  alert("THIS IS A FIRST TEST");
+ 
