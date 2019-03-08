@@ -376,7 +376,7 @@
     var lineSymbol = {
       path: google.maps.SymbolPath.CIRCLE,
       scale: 5, // change the size
-      strokeColor: '#003366'
+      strokeColor: '#76a3a1'
     };
   var frmlat = [
       {
@@ -394,8 +394,8 @@
       strokeColor: '#FF0000',
       geodesic: true,  //curves around on flat map  to simulate a globe map
       strokeOpacity: 1.0,
-      strokeWeight: 3,
-      strokeWeight: 1, // change this value to show / hide the line
+      //strokeWeight: 3,
+      strokeWeight: 2, // change this value to show / hide the line
       icons: [{
         icon: lineSymbol,
         offset: '100%'
