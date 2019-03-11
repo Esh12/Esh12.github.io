@@ -391,7 +391,7 @@
     // Create the polyline and add the symbol to it via the 'icons' property.
     var line = new google.maps.Polyline({
       path: frmlat,
-      strokeColor: '#FF0000',
+      strokeColor: '#FF2222',
       geodesic: true,  //curves around on flat map  to simulate a globe map
       strokeOpacity: 1.0,
       //strokeWeight: 3,
